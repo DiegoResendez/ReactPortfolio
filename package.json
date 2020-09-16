@@ -1,0 +1,28 @@
+{
+  "name": "reactportfolio",
+  "version": "1.0.0",
+  "description": "React Portfolio for Diego Resendez",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DiegoResendez/ReactPortfolio.git"
+  },
+  "keywords": [
+    "React",
+    "Portfolio"
+  ],
+  "author": "Diego Resendez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DiegoResendez/ReactPortfolio/issues"
+  },
+  "homepage": "https://github.com/DiegoResendez/ReactPortfolio#readme",
+  "dependencies": {
+    "bootstrap": "^4.5.2",
+    "react": "^16.13.1",
+    "react-router-dom": "^5.2.0"
+  }
+}
